@@ -1,5 +1,5 @@
 {
-	"name": "gigya/php_cms_kit",
+	"name": "gigya/cms-starter-kit",
 	"description": "A starter kit to help integrate gigya into php based cms",
 	"type": "library",
   	"version": "1.2.2",
